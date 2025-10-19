@@ -19,6 +19,8 @@ I love building projects using **React.js**, **Node.js**.
 - 🔹 Improving my skills in **Back-end Devlopment** and **API integration**
 - 🔹 Exploring **GitHub Actions** for automation
 - 🔹 Building personal projects and hosting them on GitHub Pages
+- 🔹 Exploring about the **Gen AI**
+- 🔹 Learning about the **AI and  ML** 
 
 ---
 
